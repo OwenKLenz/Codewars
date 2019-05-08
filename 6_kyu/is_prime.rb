@@ -16,4 +16,3 @@ loop do
   puts "Enter a number to test for primeness:"
   puts is_prime(gets.to_i)
 end
-
