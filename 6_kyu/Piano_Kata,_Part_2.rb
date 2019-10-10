@@ -2,7 +2,7 @@
 
 # loop over the piano keyboard (with 88 keys) pressing successive keys equal to 
 # integer argument key_press_count. Which note do you end on? For example
-# if you stopped at:wq 5, your left thumb would be on the fifth key of the piano, 
+# if you stopped at 5, your left thumb would be on the fifth key of the piano, 
 # which is C#. Or if you stopped at 92, you would have gone all the way from
 # keys 1 to 88 and then wrapped around, sothat you would be on the fourth key,
 # which is C.

@@ -34,7 +34,7 @@ def who_is_next(names, r)
   
   remainder = r - drinks # The number of drinks left to consume before r is reached.
   each_person_num = people / size # The number of copies of each person in the original array before the final pass through the array
-  
+
   # Iterate through the list of names and subtract the number of copies of each 
   # person on each iteration until subtracting those copies would exceed the 
   # remainder (IOW: Go beyond 'r', the number of drinks to be taken). The name 
