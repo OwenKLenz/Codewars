@@ -39,4 +39,4 @@ def divisible_count(x, y, k)
   (y - x) / k + 1
 end
 
-puts divisible_count(6, 11, 2) == 3
+divisibleCount(6, 11, 2) == 3
